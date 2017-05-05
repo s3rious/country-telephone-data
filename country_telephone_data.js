@@ -652,7 +652,8 @@ var allCountries = [
           'Isle of Man',
           'im',
           '44',
-          '+.. .... ......'
+          '+.. .... ......',
+          1
        ],
        [
           'Israel (‫ישראל‬‎)',
@@ -1398,7 +1399,8 @@ var allCountries = [
           'United Kingdom',
           'gb',
           '44',
-          '+.. .... ......'
+          '+.. .... ......',
+          0
        ],
        [
           'United States',
